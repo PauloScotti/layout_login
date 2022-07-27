@@ -67,3 +67,14 @@ a {
 a:hover {
     color: rgb(221, 207, 10);
 }
+
+#salvar {
+    display: none;
+    position: fixed;
+    color: white;
+    top: 15px;
+    text-align: center;
+    background: rgb(47, 149, 231);
+    padding: 5px;
+    border-radius: 15px;
+}
